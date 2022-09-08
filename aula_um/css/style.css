@@ -1,0 +1,51 @@
+body {
+    font-family: monospace;
+    font-size: 25px;
+    min-height: 400px;
+    background-color:  #470a3f;
+    background-size: 80vh;
+    background-position: center bottom;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .page-title {
+    color:#ffffff;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color:#ffffff;
+    margin-top: 5px;
+  }
+
+  .notas {
+    font-size: 90px;
+    padding-top: 15px;
+    color: aliceblue;
+  }
+
+#resultado {
+  padding: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+  color:#ffffff;
+
+}
+
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
