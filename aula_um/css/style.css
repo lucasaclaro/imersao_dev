@@ -24,11 +24,44 @@ body {
     margin-top: 5px;
   }
 
-  .notas {
-    font-size: 90px;
-    padding-top: 15px;
-    color: aliceblue;
+ .notas {
+   margin: 12px;
+   padding: 6px;
+   border-radius: 5px;
   }
+
+#bim1 {
+  margin: 12px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+#bim2 {
+  margin: 12px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+#bim3 {
+  margin: 12px;
+  padding: 10px;
+  border-radius: 5px;
+}
+#bim4 {
+  margin: 12px;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+#botao{
+  margin: 12px;
+  padding: 15px;
+  border-radius: 5px;
+  background-color: rgb(180, 169, 169);
+  font-weight: 700;
+  font-size: 16px;
+}
+
 
 #resultado {
   padding: 20px;
